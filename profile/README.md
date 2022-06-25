@@ -27,4 +27,4 @@ myproject.26nx-g94.private.api.omuro.fr/api/v1/<action>`.
 
 ## Quand et comment ?
 
-Omuro est un projet complexe par sa création et très ambitieux. Aucune date de sortir n'est à prévoir pour le moment, car il reste au stade de projet. Cependant, il sera possible de participer de manière gratuite aux différents test lorsqu'il commencerons. Enfin, vous pouvez suivre le twitter @Omuro
+Omuro est un projet complexe par sa création et très ambitieux. Aucune date de sortir n'est à prévoir pour le moment, car il reste au stade de projet. Cependant, il sera possible de participer de manière gratuite aux différents test lorsqu'il commencerons. Enfin, vous pouvez suivre le twitter [@OmuroInc](https://twitter.com/OmuroInc)
