@@ -1,4 +1,4 @@
-<img src="./omuro-white.svg" width="400">
+<img src="https://raw.githubusercontent.com/OmuroInc/.github/main/profile/omuro-white.svg" width="400">
 
 # Welcome to Omuro
 
